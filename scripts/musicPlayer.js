@@ -1,5 +1,3 @@
-import {
-    musicPlayerInit
-} from './musicPlayer.js';
-
-musicPlayerInit();
+export const musicPlayerInit = () => {
+    console.log('music Player');
+};
