@@ -1,3 +1,5 @@
+import { addZero} from "./supScript.js";
+
 export const videoPlayerInit = () => {
 
     const videoPlayer = document.querySelector('.video-player');
